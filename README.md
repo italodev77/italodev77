@@ -12,7 +12,3 @@ Front-end: Next.js, React (TypeScript), Tailwind CSS, Styled Components.
 
 Outros: Microsserviços, Design Patterns, Arquitetura MVC.
 
-💼 Experiência
-Solução Informática: Desenvolvimento de apps com React Native e TypeScript, automação fiscal via SQL, integração com APIs bancárias e migração de bases de dados.
-
-Freelancer: Integração com API Cloud NFe (Java + OpenFeign) e desenvolvimento fullstack de sistema para pizzarias (.NET + Next.js + Docker).
